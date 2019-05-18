@@ -1,0 +1,56 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+
+header{
+  height: 200px;
+  background-color: #009f6b;
+}
+
+nav{
+
+}
+
+footer{
+  padding: 10px;
+  text-align: center;
+  height: 30px;
+  background-color: #465e3c;
+}
+
+body{
+  font-family: helvetica, sans-serif;
+  color: white;
+  background-color: #25453a
+
+}
+
+a{
+  color: #30FF40;
+  font-style: italic;
+}
+
+h1{
+  text-align:center;
+  vertical-align: middle;
+}
+
+img{
+background-color: #009f6b;
+}
+
+.claro{
+background-color: #89c1a9;
+height: 100px;
+}
+
+.escuro{
+background-color: #3d8b96;
+height: 800px;
+}
+
+.container{
+  width: 72%;
+  margin: auto;
+}
