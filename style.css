@@ -3,9 +3,22 @@
   padding: 0;
 }
 
-header{
+#header_principal{
   height: 200px;
   background-color: #009f6b;
+}
+
+.header_secundario{
+  height: 45px;
+  background-color: #009f6b;
+}
+
+.div_l{
+  float: left;
+}
+
+.div_r{
+  float: right;
 }
 
 nav{
